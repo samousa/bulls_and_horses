@@ -1,4 +1,4 @@
-# Bulls and Horses Game
+# Bulls and Horses Game by LT el masrar oussama  
 
 A fun and educational number guessing game built with Flutter and Dart, featuring SQLite for score tracking.
 
